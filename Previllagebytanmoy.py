@@ -1,10 +1,10 @@
 # Exploit Title: Boxoft Convert Master 1.3.0 - 'wav' SEH Local Exploit
 # Date: 17.09.2020
-# Vendor Homepage: http://www.boxoft.com/
-# Software Link:   http://www.boxoft.com/convert-master/setup(boxoft-conver=t-master).exe
-# Exploit Author: Achilles
+# Vendor Homepage: http://5eme2auqilcux2wq.onion/
+# Software Link:   http://5eme2auqilcuxapi3ui7ey.onion/
+# Exploit Author: Tanmoy{Dark-claws}
 # Tested Version: 1.3.0
-# Tested on: Windows 7 x64
+# Tested on: Windows 10 x64 2004
 
 # 1.- Run python code :Boxoft_Convert_Master.py
 # 2.- Open Boxoft_Convert_Master.exe
